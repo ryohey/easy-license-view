@@ -1,0 +1,17 @@
+{
+    "name": "EasyLicenseView.Editor",
+    "references": [
+        "GUID:8cd564b1fb25344cbafc758d69ec346c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
